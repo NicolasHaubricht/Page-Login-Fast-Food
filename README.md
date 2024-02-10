@@ -1,2 +1,2 @@
 # Page-Login-Fast-Food
- Front-End Project with HTML and CSS. Login Page for clients.
+ Projeto Front-End utilizando as linguagens de marcação HTML5 e CSS3
