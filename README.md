@@ -11,5 +11,5 @@ Projeto Inicial de Front-End
   6. Utilizar a tag (hover) para deixar a página mais interativa;
   7. Junto com a tag hover aprendi as respectivas tags (transform) e (transition);
   8. A utilizar <var (--)> (variáveis) dentro do CSS para mais facil entendimento do código e para futuras alterações, refatoração deixando o código mais "limpo/clean";
-  9. Responsividade em diversas telas de aparelhos diferentes, com a tag (@media), sempre se preocupando com a qualidade que o cliente receberá o produto;
+  9. Responsividade em diversas telas de aparelhos diferentes, com a tag (@media), sempre se preocupado com a qualidade que o cliente receberá o produto;
 
